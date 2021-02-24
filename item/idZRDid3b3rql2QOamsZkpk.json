@@ -1,1 +1,7 @@
-{"_id":"idZRDid3b3rql2QOamsZkpk","name":"ヒノキオ パンフレット","created_date":"2021-02-22 14:59:22","modified_date":"2021-02-22 14:59:22","takeout":false}
+{
+  "created_date": "2021-02-22 14:59:22",
+  "modified_date": "2021-02-22 14:59:22",
+  "name": "ヒノキオ パンフレット",
+  "takeout": false,
+  "_id": "idZRDid3b3rql2QOamsZkpk"
+}
